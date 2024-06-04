@@ -1,0 +1,2 @@
+# AnimatedLoader
+Dynamic Animated Loader
